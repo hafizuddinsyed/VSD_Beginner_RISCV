@@ -1,7 +1,8 @@
 # VSD_Beginner_RISCV
 This repo is intended to document the weekly progress of the RISCV Workshop.
 
-#DAY0
+<details>
+  <summary>DAY0</summary>
 
 1.install Yosys
 
@@ -31,13 +32,16 @@ Steps to install iverilog and gtkwave
 3. sudo apt install gtkwave
 
 ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/01137a8d-1e96-4289-968a-eeaf64b89510)
+</details>
+<details>
+  <summary>DAY1</summary>
 
-#DAY1
 Task1: Identify the input ports and output ports of the Universal Asynchronous Receiver Transmitter Protocol based Hardware Transmitter
    ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/13e7f7be-9fe8-4abf-8e19-70343d664655)
 
 Task2: Input and output waveforms
 
-![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/34495261-f516-4010-aa62-3ebc24f10089)
+   ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/34495261-f516-4010-aa62-3ebc24f10089)
 
 
+</details>

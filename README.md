@@ -34,10 +34,10 @@ Steps to install iverilog and gtkwave
 
 #DAY1
 Task1: Identify the input ports and output ports of the Universal Asynchronous Receiver Transmitter Protocol based Hardware Transmitter
-1. Inputs
-   - clk
-   - rst
-   - 
-3. Outputs
+   ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/13e7f7be-9fe8-4abf-8e19-70343d664655)
 
 Task2: Input and output waveforms
+
+![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/34495261-f516-4010-aa62-3ebc24f10089)
+
+

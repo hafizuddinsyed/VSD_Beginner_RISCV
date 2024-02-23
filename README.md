@@ -42,6 +42,9 @@ Task1: Identify the input ports and output ports of the Universal Asynchronous R
 Task2: Input and output waveforms
 
    ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/34495261-f516-4010-aa62-3ebc24f10089)
+</details>
 
-
+<details>
+  <summary>DAY2</summary>
+  
 </details>

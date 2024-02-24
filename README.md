@@ -62,3 +62,22 @@ Task2: Input and output waveforms
   ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/f3b446f9-431c-411b-a488-4fe1f16ed357)
 
 </details>
+
+
+# VSD_Intermediate_RISCV
+This repo is intended to document the weekly progress of the RISCV Workshop.
+
+<details>
+  <summary>DAY2</summary>
+  ## Sum1ton program output
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/b8b0cfda-1c76-43db-8893-6abc4aa79365)
+
+  ## Objdump
+  riscv64-unknown-elf-objdump -d sum1ton.o | less
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/87c8d363-4177-4a4f-bc97-6ecbcb562bdc)
+
+  
+
+
+  
+</details>

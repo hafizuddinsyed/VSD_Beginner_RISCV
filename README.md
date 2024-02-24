@@ -46,5 +46,20 @@ Task2: Input and output waveforms
 
 <details>
   <summary>DAY2</summary>
+  ## Running iverilog
   
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/f4948753-3c15-4762-bd43-e3734d092fb9)
+  
+  ## Running executable
+  
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/9cc9775e-ead3-4e96-bcd1-5d85d5464af1)
+  
+  ##Opening VCD in gtkwave
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/8f165ab1-918b-4951-a084-a4fb6cc2b5fb)
+
+  ![image](https://github.com/hafizuddinsyed/VSD_Beginner_RISCV/assets/30310985/f3b446f9-431c-411b-a488-4fe1f16ed357)
+
+
+  
+
 </details>
